@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    color: blanchedalmond;
+    
+}
+
+h1{
+    color: black;
+    background-color: rgb(221, 175, 221);
+    padding: 50px;
+    text-align: center;
+    font-size: 70px;
+    font-family: serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: serif;
+}
+
+h3{
+    font-size: 30px;
+}
+
+p{
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+li{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+img{
+    overflow: auto;
+    float: right;
+    border: 3px solid cadetblue;
+    padding: 3px;
+    margin: 10px;
+
+}
+
+img:hover{
+    
+    opacity: 0.5;
+}
